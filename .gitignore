@@ -1,0 +1,11 @@
+*/**.csv
+/*.csv
+venv/
+linkedin/downloads/**
+linkedin/Linkedin-Posts/*
+linkedin/data.json
+linkedin/linkedin-import-weekly-local.py
+linkedin/linkedin-local.py
+*_data.json
+.env
+
